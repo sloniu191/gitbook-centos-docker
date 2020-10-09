@@ -2,6 +2,7 @@
 
 Gitbook implementation on a CentOS based container. 
 
+jajco
 This image includes a `docs` directory in which you can place your 
 GitBook content.
 
